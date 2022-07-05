@@ -425,6 +425,10 @@ border: none;
     overflow: hidden;
 }
 
+.f2, .f3, .f4 {
+    display: none;
+}
+
 /* FIXED SCROLLING BG */
 
 .scroll-bg{
